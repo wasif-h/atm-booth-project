@@ -63,6 +63,7 @@ class Atm:
             print("Wrong Pin -- Try Again")
     
 
+if __name__ == '__main__':
 
-brac = Atm()
-brac.menu()
+    brac = Atm()
+    brac.menu()
