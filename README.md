@@ -62,9 +62,7 @@ Contributions are welcome! If you'd like to improve the project, add more featur
 
 ## 📧 Contact
 
-If you have any questions or suggestions, feel free to reach out by opening an issue or contact me at [your-email@example.com].
-
----
+If you have any questions or suggestions, feel free to reach out by opening an issue or contact me at <wasif.hx@gmail.com>
 
 Happy Coding! 😊
 Author : Wasif Hossain
